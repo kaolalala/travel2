@@ -58,5 +58,5 @@ export default {
             color: #fff;
             .arrow-icon
                 font-size: .24rem;
-                margin-left: -.1rem;
+                margin-left: -.04rem;
 </style>
